@@ -1,1 +1,1 @@
-# fake_news_detection
+This a natural language based project for detecting fake news.
