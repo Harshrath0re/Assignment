@@ -1,0 +1,140 @@
+.frame-1,
+.frame-1 * {
+  box-sizing: border-box;
+}
+
+.frame-1 {
+  background: #443e3e;
+  width: 371.94px;
+  height: 371.94px;
+  position: relative;
+}
+
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+
+.rectangle-1 {
+  background: #a6c4a8;
+  width: 263px;
+  height: 32px;
+  position: absolute;
+  left: 0px;
+  top: 185.97px;
+  transform-origin: 0 0;
+  transform: rotate(-45deg) scale(1, 1);
+}
+
+.rectangle-2 {
+  background: #c5bca9;
+  width: 263px;
+  height: 32px;
+  position: absolute;
+  left: 163.34px;
+  top: 349.31px;
+  transform-origin: 0 0;
+  transform: rotate(-45deg) scale(1, 1);
+}
+
+.rectangle-3 {
+  background: #d87b4a;
+  width: 263px;
+  height: 32px;
+  position: absolute;
+  left: 349.31px;
+  top: 208.6px;
+  transform-origin: 0 0;
+  transform: rotate(-135deg) scale(1, 1);
+}
+
+.rectangle-4 {
+  background: #53a3f8;
+  width: 263px;
+  height: 32px;
+  position: absolute;
+  left: 185.97px;
+  top: 371.94px;
+  transform-origin: 0 0;
+  transform: rotate(-135deg) scale(1, 1);
+}
+
+.rectangle-5 {
+  background: #4cacaa;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 22.63px;
+  top: 208.6px;
+  transform-origin: 0 0;
+  transform: rotate(-135deg) scale(1, 1);
+}
+
+.rectangle-6 {
+  background: #a06648;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 185.97px;
+  top: 45.25px;
+  transform-origin: 0 0;
+  transform: rotate(-135deg) scale(1, 1);
+}
+
+.rectangle-7 {
+  background: #b56741;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 349.31px;
+  top: 208.6px;
+  transform-origin: 0 0;
+  transform: rotate(-135deg) scale(1, 1);
+}
+
+.rectangle-8 {
+  background: #4a91c3;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 185.97px;
+  top: 371.94px;
+  transform-origin: 0 0;
+  transform: rotate(-135deg) scale(1, 1);
+}
+
+.html-css {
+  text-align: left;
+  font: 400 31px "Inter", sans-serif;
+  position: absolute;
+  left: 107px;
+  top: 160px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+
+.html-css-span {
+  color: #ffffff;
+  font: 400 31px "Inter", sans-serif;
+}
+
+.html-css-span2 {
+  color: #8b5032;
+  font: 400 31px "Inter", sans-serif;
+}
+
+.html-css-span3 {
+  color: #ffffff;
+  font: 400 31px "Inter", sans-serif;
+}
+
+.design-and-build-website {
+  color: #ffffff;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 118px;
+  top: 193px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
